@@ -1,0 +1,3 @@
+# Queue Python
+
+Queue merupakan koleksi item yang cara penambahan itemnya terjadi pada sebuah ujung yang biasa disebut sebagai “ekor” atau (rear) dan untuk penghapusannya, terjadi pada ujung yang satunya. Atau biasa kita beri nama “kepala” atau (head). Jadi konsep dari queue ini menggunakan konsep layak nya FIFO yang merupakan kepanjangan dari First in First out. Dalam kehidupan sehari – hari, konsep ini biasa di analogikan sebagai sebuah antrian. Dimana setiap orang yang datang terlebih dahulu, maka ia lah yang akan di layani terlebih dahulu. Nah konsep ini sangat berbeda dengan konsep yang ada pada stack. Namun, sama seperti stack, kelas ini juga memiliki beberapa operasi.

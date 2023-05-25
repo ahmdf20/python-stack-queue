@@ -1,3 +1,3 @@
-# python-stack-queue
-## Simple Stack {Just simple stack}
-## Simple Queue {Just simple Queue}
+# Stack Python
+
+Stack merupakan sebuah kumpulan data atau item dengan cara penambahan item baru serta penghapusan, selalu terjadi pada tempat atau ujung yang sama. Stack ini biasa di analogikan seperti tumpukan pada piring. Dimana kita mengambil maupun meletakkan piring selalu pada sisi atasnya. Walaupun sebenarnya kita bisa mengambil dan meletakkan piring di sisi bawah. Namun hal tersebut susah ya dilaksakan? Maka yang umum dan mudah adalah pada sisi atasnya. Dan ujung tempat data di tambah maupun di hapus, biasa disebut sebagai TOP. Dan sisi yang satunya, adalah BASE. Dan class Stack ini memiliki konsep LIFO (last in first out) atau dalam bahasa indonesianya adalah data yang terakhir masuk, maka ialah yang pertama akan dikeluarkan. 

@@ -1,6 +1,6 @@
 # Sequential Search
 
-Apa itu <u>Sequential Search</u>?...... Cari tau aja d gugel 😅
+Apa itu <u>Sequential Search</u>?...... Cari tau aja d gugel 😅 <br>
 pake kata kunci ini : what is sequential search in python
 
 intinya sequential search itu mencari sebuah data tapi berurutan dari atas ke bawah, jadi dilist gitu
