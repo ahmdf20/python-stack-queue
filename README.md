@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, et! Debitis even
   <li><a href="https://github.com/ahmdf20/python-stack-queue/tree/master/stack">Stack</a></li>
   <li><a href="https://github.com/ahmdf20/python-stack-queue/tree/master/sequence-search">Sequence Seach</a></li>
   <li><a href="https://github.com/ahmdf20/python-stack-queue/tree/master/binary-seach">Binary Seach</a></li>
-<ul>
+</ul>
 
 ## Penjelasan
 
