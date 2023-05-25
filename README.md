@@ -7,8 +7,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, et! Debitis even
 <ul>
   <li><a href="https://github.com/ahmdf20/python-stack-queue/queue">Queue</a></li>
   <li><a href="https://github.com/ahmdf20/python-stack-queue/stack">Stack</a></li>
-  <li><a href="https://github.com/ahmdf20/python-stack-queue/queue">Sequence Seach</a></li>
-  <li><a href="https://github.com/ahmdf20/python-stack-queue/queue">Binary Seach</a></li>
+  <li><a href="https://github.com/ahmdf20/python-stack-queue/sequence-seach">Sequence Seach</a></li>
+  <li><a href="https://github.com/ahmdf20/python-stack-queue/binary-search">Binary Seach</a></li>
 <ul>
 
 ## .....
